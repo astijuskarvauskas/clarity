@@ -1,8 +1,9 @@
 import './App.css'
+import Sidebar from './components/Sidebar'
 
 function App() {
   return (
-    <h1>Clarity!</h1>
+      <Sidebar />
   )
 }
 
